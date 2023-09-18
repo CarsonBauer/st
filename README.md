@@ -11,3 +11,4 @@ st is a simple terminal emulator for X which sucks less. This build contains mod
 - Gruvbox color scheme.
 - Alpha (X window transparency, dependency on transset or similar program).
 - Blinking cursor.
+- Scrolling (changed key bindings to vim bindings -> ctrl+j for down, ctrl+k for up)
